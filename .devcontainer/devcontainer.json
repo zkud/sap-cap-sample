@@ -1,0 +1,11 @@
+{
+	"name": "Dev",
+	"dockerFile": "Dockerfile",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"SAPSE.vscode-cds"
+			]
+		}
+	}
+}
