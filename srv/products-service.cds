@@ -1,5 +1,5 @@
-using calories from '../db';
+using products from '../db';
 
 service ProductsService {
-    entity Products as projection on calories.Items;
+    entity Products as projection on products.Products;
 }
